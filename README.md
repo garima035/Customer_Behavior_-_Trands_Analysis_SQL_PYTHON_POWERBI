@@ -1,6 +1,6 @@
-# Customer_Behavior_-_Trands_Analysis_SQL_PYTHON_POWERBI
-This Project analyzes customer shopping data to identify trends, understand customer behavior, and improve business decisions. It includes data cleaning, analysis, and visualization using tools like python, SQL, and Power BI
-
+# Customer Shopping Behavior Analysis
+### 1. Project Overview
+This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
 
 ## Project Overview
 
